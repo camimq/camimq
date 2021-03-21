@@ -1,4 +1,4 @@
-## Olá, tudo bom? :smile: [pt-br]
+## Olá, tudo bom? 👋 [pt-br]
 
 Meu nome é Camila Queiroz e sou de São Paulo (🇧🇷). Desde 2004, atuo no mercado de Turismo & Eventos. Entrei nesse mercado porque sempre fui apaixonada por conectar pessoas. Através da conexão de pessoas, ideias são concebidas e coisas incríveis acontecem. Vivi grandes desafios no decorrer da minha carreira e sou grata a todas as oportunidades que recebi.
 
@@ -16,7 +16,7 @@ Mas aí, se você já rodou meus repositórios, deve estar se perguntando: "*E e
 
 -------------------------------------------------------------------------------------------------
 
-## Hello, how are you? :smile: [en]
+## Hello, how are you? 👋: [en]
 
 My name is Camila Queiroz and I'm from São Paulo (🇧🇷). Since 2004, I work in the Tourism & Events industry. I´ve started my carreer on this field, because I´ve always been passionate about connecting people. Through connecting people, ideas are conceived and incredible things happens. I´ve experienced great challenges during my career and I am grateful for all of them.
 
