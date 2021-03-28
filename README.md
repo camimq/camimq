@@ -34,5 +34,7 @@ But then, if you have already run my repositories, you may be asking: "*And thes
 [![Medium Badge](https://img.shields.io/badge/Medium-Follow-black)](https://camimq.medium.com/) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Conectar-blue)](www.linkedin.com/in/camilaqueiroz) [![Twitter Badge](https://img.shields.io/badge/Twitter-Follow-blueviolet)](https://twitter.com/camimq)
 
 -------------------------------------------------------------------------------------------------
+## Github Status :computer:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camimq)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=camimq"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camimq"/></p>
