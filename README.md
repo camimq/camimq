@@ -21,11 +21,20 @@ But then, if you have already run my repositories, you may be asking: "*And thes
   <a href="https://camimq.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
-
-</div>
+<br>
 
 ---
-## Github Status :computer:
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=camimq"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camimq"/></p>
+<br>
+
+## Github Status 🧐
+<br>
+ <div align="center">
+  <a href="https://github.com/camimq">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camimq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camimq&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div>
+    <img height="180" width="450" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=camimq&theme=tokyonight&hide_border=true"/>
+</div>
