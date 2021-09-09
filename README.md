@@ -27,7 +27,7 @@ But then, if you have already run my repositories, you may be asking: "*And thes
 
 <br>
 
-## Github Status 🧐
+## Stats 🧐
 <br>
  <div align="center">
   <a href="https://github.com/camimq">
