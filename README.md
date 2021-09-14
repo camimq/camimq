@@ -43,6 +43,6 @@ But then, if you have already run my repositories, you may be asking: "*And thes
 <br>
 <div>
   <a href="https://github.com/camimq">
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api?username=camimq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camimq&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=camimq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camimq&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
