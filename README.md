@@ -15,7 +15,7 @@ But then, if you have already run my repositories, you may be asking: "*And thes
 
 <br>
 
-<div> 
+<div align="center"> 
   <a href = "mailto:camidmq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camilaqueiroz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/camimq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -25,7 +25,7 @@ But then, if you have already run my repositories, you may be asking: "*And thes
 
 <br>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Cami-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cami-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cami-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -41,7 +41,7 @@ But then, if you have already run my repositories, you may be asking: "*And thes
 
 ## STATS 🧐
 <br>
- <div align="center">
+<div>
   <a href="https://github.com/camimq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camimq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camimq&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
