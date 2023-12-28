@@ -1,13 +1,3 @@
-<div align="center">
-  <img src='img/how are you.png'>
-</div>
-
-<div align="center"> 
-  <a href = "mailto:camilamoraesqueiroz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camilaqueiroz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://camimq.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-</div>
-
 # Hello, how are you? 🙂
 
 Hello, I´m Camila, but everyone calls me Cami, feel free.
@@ -42,8 +32,18 @@ Hello, I´m Camila, but everyone calls me Cami, feel free.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camimq)](https://github.com/camimq/github-readme-stats)
 
-
 ### Wakatime
 
 How long do I keep online coding and what am I coding.
 [![Camila´s WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=camimq)](https://github.com/camimq/github-readme-stats)
+
+## 🗣️ Let´s Talk
+
+Drop me a message if you want to talk! 😉
+
+
+<div> 
+  <a href = "mailto:camilamoraesqueiroz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/camilaqueiroz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://camimq.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+</div>
